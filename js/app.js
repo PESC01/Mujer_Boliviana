@@ -67,7 +67,7 @@ $(window).on("load", function () {
 	/* https://mattboldt.com/typed.js/ */
 	var typed = new Typed("#text", {
 		strings: [
-			"¡Feliz Día de la Mujer Boliviana! Espero que estés bien y te sientas feliz. Solo quería desearte lo mejor en este día tan especial. Que tengas mucho éxito y felicidad en tu vida y te mantengas saludable durante todo el año. <br> <b>¡Así que sigue brillando y sonriendo, y ten un maravilloso Día de la Mujer Boliviana!</b>",
+			"¡Feliz Día de la Mujer Boliviana! Hoy conmemoramos a todas las mujeres valientes y luchadoras que han dejado una huella imborrable en nuestra sociedad. Espero que este día especial te llene de alegría y orgullo, y que sigas cosechando éxito, felicidad y salud en cada paso que des. <br> <b>¡Así que sigue brillando y sonriendo, y ten un maravilloso Día de la Mujer Boliviana!</b>",
 		],
 		startDelay: 4500,
 		typeSpeed: 92,
