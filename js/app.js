@@ -1,6 +1,6 @@
 $(window).on("load", function () {
 	let name = $(".enteredName");
-	const askedName = prompt("Cual es tu nombre?");
+	const askedName = prompt("¿Cual es tu nombre?");
 
 	if (askedName) {
 		name.text(askedName);
